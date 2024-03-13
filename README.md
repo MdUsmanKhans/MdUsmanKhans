@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usman-khan-raheem&label=Profile%20views&color=0e75b6&style=flat" alt="usman-khan-raheem" /> </p>
 
-- 🔭 I’m currently working on [Syed And Sons Travel agency.](https://deft-parfait-f5b2e0.netlify.app)
+- 🔭 I’m currently working on [Syed And Sons Travel agency.](https://syed-and-sons-tarvel.web.app)
 
 - 🌱 I’m currently learning **Javascript,Mernstack development**
 
