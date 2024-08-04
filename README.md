@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Javascript,Mernstack development**
 
-- 👯 I’m looking to collaborate on **Custom website**
-
 - 📫 How to reach me **usmankhan125w@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
