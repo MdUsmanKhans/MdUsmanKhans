@@ -53,6 +53,13 @@
 
 ---
 
+<h3 align="center">✨ Tech I'm working with:</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=React.js;Tailwind+CSS;Firebase;MongoDB;Node.js;Express.js;TypeScript;Redux;Next.js;Figma" alt="Typing Animation" />
+</p>
+
+---
+
 <h3 align="left">📊 GitHub Stats:</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdUsmanKhans&layout=compact&theme=tokyonight" alt="MdUsmanKhans" /></p>
