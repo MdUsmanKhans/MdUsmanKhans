@@ -1,27 +1,69 @@
 <h1 align="center">Hi 👋, I'm Md Usman Khan</h1>
-<h3 align="center">A passionate Mern Stack Developer from Pakistan</h3>
+<h3 align="center">A passionate MERN Stack Developer from Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=usman-khan-raheem&label=Profile%20views&color=0e75b6&style=flat" alt="usman-khan-raheem" /> </p>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=MdUsmanKhans&label=Profile%20views&color=0e75b6&style=flat" alt="MdUsmanKhans" /> 
+</p>
 
-- 🌱 I’m currently learning **Mernstack development**
+---
 
-- 📫 How to reach me **usmankhan125w@gmail.com**
+### 👨‍💻 About Me
+
+- 💼 I’m a **MERN Stack Developer** with a passion for crafting interactive and responsive web applications.
+- ⚛️ Currently focused on building advanced **React.js projects** with **Firebase**, **Tailwind CSS**, and **Node.js**.
+- 🧠 Continuously learning and exploring **Next.js**, **Redux**, **API Integration**, and UI/UX design principles.
+- 🔭 I enjoy turning complex problems into simple, elegant user interfaces.
+- 💬 Ask me about anything related to **React, Firebase, Tailwind CSS, or building full-stack apps**.
+- 📫 Reach me anytime at **usmankhan125w@gmail.com**
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/usman khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="usman khan" height="30" width="40" /></a>
-<a href="https://instagram.com/usman.____.khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="usman.____.khan" height="30" width="40" /></a>
+  <a href="https://fb.com/usman.khan" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/facebook.svg" alt="Facebook" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/usman.____.khan" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
 </p>
 
+---
+
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="typescript" width="40" height="40"/> </a>
- <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="http://i.hmp.me/m/884b56424e2ab083be35d80b062f2e4e.jpg" alt="react.js" width="40" height="40"/> </a></p>
+<p align="left">
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="40" height="40"/>
+  </a>
+  <a href="https://react.dev/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" width="40" height="40"/>
+  </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TypeScript" width="40" height="40"/>
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MdUsmanKhans&show_icons=true&locale=en&layout=compact" alt="MdUsmanKhans" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MdUsmanKhans&show_icons=true&locale=en" alt="MdUsmanKhans" /></p>
+<h3 align="left">📊 GitHub Stats:</h3>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MdUsmanKhans&" alt="MdUsmanKhans" /></p>
- 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdUsmanKhans&layout=compact&theme=tokyonight" alt="MdUsmanKhans" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MdUsmanKhans&show_icons=true&locale=en&theme=tokyonight" alt="MdUsmanKhans" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MdUsmanKhans&theme=tokyonight" alt="MdUsmanKhans" /></p>
