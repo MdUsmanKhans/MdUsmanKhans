@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Md Usman Khan</h1>
 
 <h3 align="center">
-Full Stack Developer | React.js | Node.js | Firebase | Next.js Learner
+Full Stack Developer | Mongo db | Express.js | React.js | Next.js | Node.js 
 </h3>
 
 <p align="center">
